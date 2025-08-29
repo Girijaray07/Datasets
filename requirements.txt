@@ -1,0 +1,32 @@
+# Core Scientific Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+
+# Jupyter & Notebook Support
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+
+# Web Requests & APIs
+requests
+urllib3
+httpx
+beautifulsoup4
+
+# Optional NLP & Regex
+regex
+joblib
+nltk
+
+# Optional API Clients (keep only if you’ll use them)
+openai
+google-auth
+google-auth-oauthlib
+google-api-core
+google-api-python-client
+googleapis-common-protos
